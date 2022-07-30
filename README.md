@@ -29,8 +29,7 @@ Essas são as tecnologias usadas neste projeto
 
 
 ## Links
-  - Repository: https://github.com/robovmp/semana-omnistack-07
-
+  - Repository: https://github.com/robovmp/starBucks-clone
   ## Versão
 
   1.0.0.0
