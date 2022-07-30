@@ -1,5 +1,5 @@
 
-![Logo do projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/camera.svg)
+![Logo do projeto](https://github.com/robovmp/starBucks-clone/blob/main/StarBucksClone/assets/images/logo.png)
 
 
 ## StarBucksClone
@@ -19,13 +19,13 @@ Essas são as tecnologias usadas neste projeto
 
 ## Apresentação :
 
-![Projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage2.png)
+![Projeto](https://github.com/robovmp/starBucks-clone/blob/main/assets/star1.png)
 
-![Projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/postPage.png)
+![Projeto](https://github.com/robovmp/starBucks-clone/blob/main/assets/star2.png)
 
-![Projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/homePage.png)
+![Projeto](https://github.com/robovmp/starBucks-clone/blob/main/assets/star3.png)
 
-![Projeto](https://github.com/robovmp/semana-omnistack-07/blob/main/assets/videoAssets.png)
+![Projeto](https://github.com/robovmp/starBucks-clone/blob/main/assets/star4.png)
 
 
 ## Links
